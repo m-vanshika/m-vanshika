@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m-vanshika
+- 👋 Hi, I’m @Vanshika
 - 👀 I’m interested in android app development, web development , games develepment, ethical hacking.
 - 🌱 I’m currently learning machine learning and internet of things
 - 💞️ I’m looking to collaborate on any thing that's exciting
